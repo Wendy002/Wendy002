@@ -8,7 +8,7 @@ I am an Entry-level Software Developer specializing in frontend development. I'm
 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  I'm learning Advanced Javascript
+*   🧠  I'm learning Typescript, react and aws services
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer.
 
 
