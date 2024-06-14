@@ -7,6 +7,7 @@ Software Developer
 I am an Entry-level Software Developer specializing in frontend development. I'm currently studying frontend development from CodeSpace Academy. I am proficient in JavaScript, Tailwind CSS, Bootstrap, HTML, CSS and Python.
 
 *   🌍  I'm based in South Africa
+*   Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
 *   🧠  I'm learning Typescript, react and aws services
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer.
