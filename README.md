@@ -26,7 +26,7 @@ I am an Entry-level Software Developer specializing in frontend development. I'm
 
 ## Projects 
 
-🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
+🖥️ Portifolio Website [https://dev-noxolo-portfolio.netlify.app/]
 
 
 ## Socials
