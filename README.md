@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noxolo Ngcobo
 =====================================================================================================================================
 
-Software Developer
+Aspring Data Scientist 
 ------------------
 
-I am an Entry-level Software Developer specializing in frontend development. I'm currently studying frontend development from CodeSpace Academy. I am proficient in JavaScript, Tailwind CSS, Bootstrap, HTML, CSS and Python.
+I am an Entry-level Software Developer specializing in frontend development. I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
 
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  I'm learning Typescript, react and aws services
-*   🤝  I'm open to collaborating on exciting projects as a frontend developer.
+*   🧠  I'm currently enrolled in an ML zoomcamp challenge
+*   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
 
 
 ## Skills
