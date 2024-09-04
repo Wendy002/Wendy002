@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspring Data Scientist 
 ------------------
 
-I am an Entry-level Software Developer specializing in frontend development. I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
+I'm currently studying a Bsc Data Science degree @ International univeersity of Applied Sciences . I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
 
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
