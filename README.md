@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noxolo Ngcobo
 =====================================================================================================================================
 
-Aspring Data Scientist 
+ Aspiring Data specialist
 ------------------
 
 I'm currently studying a Bsc Data Science degree @ International univeersity of Applied Sciences . I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
@@ -9,7 +9,7 @@ I'm currently studying a Bsc Data Science degree @ International univeersity of 
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  I'm currently enrolled in an ML zoomcamp challenge
+*   🧠  I'm currently enrolled in an AWS AI/ML schorlaship with Udacity stuyding AI with python programming
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
 
 
