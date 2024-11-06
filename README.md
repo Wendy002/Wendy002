@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Aspiring Data specialist
 ------------------
 
-I'm currently studying a Bsc Data Science degree @ International univeersity of Applied Sciences . I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
+I'm currently studying a Bsc Data Science degree @ International university of Applied Sciences(flexible schedule) . I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
 
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  I'm currently enrolled in an AWS AI/ML schorlaship with Udacity stuyding AI with python programming
+*   🧠  Apart from the degree I'm also enrolled in an AWS AI/ML schorlaship with Udacity stuyding AI with python programming (2-3 months)
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
 
 
