@@ -9,7 +9,7 @@ I'm currently studying a Bsc Data Science degree @ International university of A
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  Apart from the degree I'm also enrolled in an AWS AI/ML schorlaship with Udacity stuyding AI with python programming (2-3 months)
+*   🧠  Upskilling in AI through an AWS AI/ML schorlaship with Udacity stuyding AI with python programming (2-3 months), Joined a 6 week data engineering bootcamp ends on Dec 31st
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
 
 
