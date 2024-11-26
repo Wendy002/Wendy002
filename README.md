@@ -9,7 +9,7 @@ I'm currently studying a Bsc Data Science degree @ International university of A
 *   🌍  I'm based in South Africa
 *   🖥️ Portifolio Webisite [https://dev-noxolo-portfolio.netlify.app/]
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  Upskilling with a 6 week data engineering bootcamp ends on Dec 31st
+*   🧠  Upskilling with a 9 week data engineering bootcamp starts in Jan - march 2025
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
 
 
