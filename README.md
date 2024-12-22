@@ -11,7 +11,7 @@ I'm currently studying a Bsc Data Science degree @ International university of A
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
 *   🧠  Upskilling with a 9 week data engineering bootcamp starts in Jan - march 2025
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner.
-*   \\  AWS Cloud practitioner certified
+*   \\\  AWS Cloud practitioner certified
 
 
 ## Skills
