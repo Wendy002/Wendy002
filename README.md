@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noxolo Ngcobo
 =====================================================================================================================================
 
- Aspiring cloud specialist in data and data security in cloud
+ I'm a data and cloud practitioner
 ------------------
 
 I'm currently studying a Bsc Data Science degree @ International university of Applied Sciences(part-time). I studied  frontend development from CodeSpace Academy recently to strengthen my software development skills and recently cleared my AWS Cloud Practitioner. I am proficient in JavaScript, React, Tailwind CSS, Bootstrap, HTML, CSS  Python, Web Apis, Data Analysis, Basic ML skills.
