@@ -9,8 +9,8 @@ I'm currently studying a Bsc Data Science degree @ International university of A
 *   🌍  I'm based in South Africa
 *   📜  AWS Certified Cloud practitioner
 *   ✉️  You can contact me at [wendyngcobo98@gmail.com](mailto:wendyngcobo98@gmail.com)
-*   🧠  Upskilling with a women in cloud schorlarship certification program , currently busy with Azure Fundamentals
-*   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner/cloud projects.
+*   🧠  Upskilling with a women in cloud schorlarship certification program , currently busy with PL-300 Power BI data analyst
+*   🤝  I'm open to collaborating on exciting projects as a frontend developer/ Data practioner projects.
 
 
 ## Skills
